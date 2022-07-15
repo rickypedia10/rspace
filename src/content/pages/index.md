@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Aneesh Mittal
 tagline: Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/1.png
 cta:
   ctaText: About..
   ctaLink: /about
