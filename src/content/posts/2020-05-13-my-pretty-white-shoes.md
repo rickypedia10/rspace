@@ -1,9 +1,9 @@
 ---
 template: blog-post
 title: Extreme gaming extravaganza
-slug: /gaming-extravaganza
-date: 2020-05-13 12:55
+slug: /avatar-upload-test
+date: 2022-07-16 14:00
 description: How we scaled an Extreme gaming extravaganza
-featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
+featuredImage: /assets/rickypedia-avatar.jpeg
 ---
 My Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White Shoes
