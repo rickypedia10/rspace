@@ -2,7 +2,7 @@
 template: blog-post
 title: Mighty Himalayas
 slug: /travel/1
-date: 2022-07-14 15:19
+date: 2022-07-16 14:00
 description: motorcycle
 featuredImage: /assets/20180715_151123.jpg
 ---
