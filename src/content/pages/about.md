@@ -7,6 +7,6 @@ All views my own.
 
 Random thoughts on a load of topics.
 
-![Bikes](/assets/wall-patternr.jpg "Bikes")
+![Bikes](/assets/rickypedia-avatar.jpeg "Bikes")
 
 I don't have much thoughts tbh. Or not SFW enough to be online.
